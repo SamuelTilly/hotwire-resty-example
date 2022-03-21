@@ -1,1 +1,1 @@
-# hotwire-openresty-example
+# hotwire-resty-example
